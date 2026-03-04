@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://gia01-member.github.io/gia-consulting-site-pro_v2/sitemap.xml
+Sitemap: https://gia01-member.github.io/gia-consulting-site/sitemap.xml
