@@ -22,18 +22,18 @@ Then open `index.html` or deploy with GitHub Pages.
 - `404.html`
 
 ### Search Console
-1. Add property (URL-prefix): `https://Gia01-member.github.io/gia-consulting-site-pro/`
+1. Add property (URL-prefix): `https://Gia01-member.github.io/gia-consulting-site/`
 2. Verify with the HTML meta tag in `index.html`
 3. Submit sitemap: `https://Gia01-member.github.io/gia-consulting-site-pro/sitemap.xml`
 
 
 ## Complete SEO + Social Pack (v2)
 
-- OG image: `https://gia01-member.github.io/gia-consulting-site-pro_v2/img/og.png`
-- Sitemap: `https://gia01-member.github.io/gia-consulting-site-pro_v2/sitemap.xml`
-- Robots: `https://gia01-member.github.io/gia-consulting-site-pro_v2/robots.txt`
+- OG image: `https://gia01-member.github.io/gia-consulting-site/img/og.png`
+- Sitemap: `https://gia01-member.github.io/gia-consulting-site/sitemap.xml`
+- Robots: `https://gia01-member.github.io/gia-consulting-site/robots.txt`
 - Favicons in `img/`
 
 ### Search Console
-- Add property (URL-prefix): `https://gia01-member.github.io/gia-consulting-site-pro_v2/`
+- Add property (URL-prefix): `https://gia01-member.github.io/gia-consulting-site/`
 - Submit sitemap: `https://gia01-member.github.io/gia-consulting-site-pro_v2/sitemap.xml`
